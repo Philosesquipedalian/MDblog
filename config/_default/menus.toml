@@ -6,9 +6,14 @@
 [[main]]
   name = "Home"
   url = "/"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "About"
   url = "about/"
+  weight = 20
+  
+[[main]]
+  name = "Posts"
+  url = "posts/"
   weight = 20
