@@ -1,62 +1,27 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
-
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+title: Dr. Philo
+role: Canadian Medical Student
+avatar_filename: 2.png
+bio: My interests are scientific communication, equity in STEM, and dispelling
+  misconceptions.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+  - icon: envelope
+    icon_pack: fas
+    link: about/#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/philo_md
+organizations: []
+superuser: true
 ---
+Hiya,
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a first year Canadian medical student in Ontario. A first-generation Canadian, and the first physician of the family. This blog is meant to be a reflective outlet about my MD journey and whatever I find of interest along the way. Like life, it will go through an iterative process, growing and adapting as I develop. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My hope is that I can look back on this as a reminder of the humour, aspirations, and desire to help that I am starting with in this journey. Although this is a personal blog, I promised myself that I would find opportunities to support others going through the medical school application process. So weaved in between my musings, humble opinions, and scattered spiels will be posts answering the most commonly asked questions I receive. 
+
+Hope you find something of interest/useful during your visit. If you would like me to write about something, reach out!
+
+With many virtual hugs,
+
+Philo
