@@ -7,7 +7,7 @@ bio: My interests are scientific communication, equity in STEM, and dispelling
 social:
   - icon: envelope
     icon_pack: fas
-    link: philomd.veinless@gmail.com
+    link: mailto:philomd.veinless@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/philo_md
