@@ -8,7 +8,7 @@ draft: false
 featured: false
 authors:
   - admin
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 tags:
   - MCAT
   - GPA
@@ -18,11 +18,11 @@ categories:
   - Medical School Applications
 projects: []
 image:
-  caption: "Image credit: [**Philo**]"
+  caption: ""
   focal_point: ""
   placement: 2
   preview_only: false
-  filename: blue-and-pink-colored-people-illustrations-classroom-rules-and-online-etiquette-education-presentation.jpg
+  filename: null
 ---
 ## Introduction
 
@@ -30,7 +30,7 @@ image:
 2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
 3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
 
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+{{< figure src="2.jpg">}}
 
 ## Get Started
 
