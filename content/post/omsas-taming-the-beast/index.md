@@ -17,3 +17,5 @@ image:
   preview_only: false
 ---
 words
+
+{{< figure src="2.jpg" caption="A caption" >}}
