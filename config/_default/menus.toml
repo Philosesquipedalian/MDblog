@@ -6,7 +6,7 @@
 [[main]]
   name = "Home"
   url = "/"
-  weight = 20
+  weight = 21
 
 [[main]]
   name = "About"
@@ -16,4 +16,4 @@
 [[main]]
   name = "Posts"
   url = "posts/"
-  weight = 20
+  weight = 22
