@@ -1,7 +1,7 @@
 ---
-# Homepage
 type: widget_page
-
-# Homepage is headless, other widget pages are not.
+widget: pages
+widget_id: Recent-posts
 headless: true
+weight: 31
 ---
