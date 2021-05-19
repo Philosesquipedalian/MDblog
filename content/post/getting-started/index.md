@@ -22,7 +22,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
-  filename: null
+  filename: featured.jpg
 ---
 ## Introduction
 
