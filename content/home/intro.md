@@ -7,6 +7,6 @@ title: "Not In Vein: The musings of a Canadian MD student"
 subtitle: ""
 design:
   background:
-    color: "#2D3047"
+    color: "#212227"
     text_color_light: true
 ---
