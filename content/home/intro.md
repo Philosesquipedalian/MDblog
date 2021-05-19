@@ -2,7 +2,7 @@
 widget: starter.blog.intro
 widget_id: Homepage
 headless: true
-weight: 10
+weight: 30
 title: "Not In Vein: The musings of a Canadian MD student"
 subtitle: ""
 design:
