@@ -1,7 +1,7 @@
 ---
 title: Philo
 role: Canadian Medical Student
-avatar_filename: 2.jpg
+avatar_filename: 1619638276380.jpeg
 bio: My interests are scientific communication, equity in STEM, and dispelling
   misconceptions.
 social:
